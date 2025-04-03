@@ -32,7 +32,7 @@ getgenv().Config = {
  ["White Screen"] = false,
  ["Click Delay"] = 0.1,
  },
- ["Items"] = {["Use"] = {"Melee", "Gun", "Sword"},
+ ["Items"] = {["Use"] = {"Melee", "Blox Fruit", "Gun", "Sword"},
  ["Melee"] = {
  ["Enable"] = true,
  ["Skills"] = {
